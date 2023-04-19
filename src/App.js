@@ -1,18 +1,21 @@
 import './App.css';
 import Navbar from './components/Navbar';
 import IMG_slider from './components/IMG_slider';
-import brandSlider from './components/brandSlider';
+import BrandSlider from './components/BrandSlider';
+import About from './components/About';
+import Services from './components/Services';
+import OurServices from './components/OurServices';
 
 function App() {
   const slides = [
-    {url: 'https://picsum.photos/id/2/1000/500'},
-    {url: 'https://picsum.photos/id/239/1000/500'},
-    {url: 'https://picsum.photos/id/4/1000/500'}
+    {url: 'https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80'},
+    {url: 'https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80'},
+    {url: 'https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80'}
 ]
 
 const containerStyles = {
-  width : '1200px',
-  height: '500px',
+  width : '102%',
+  height: '580px',
   margin: '0 auto',
 }
   return (
@@ -20,9 +23,12 @@ const containerStyles = {
      <Navbar/>  
      <div style={containerStyles}>
     <IMG_slider slides={slides}/>
-    <brandSlider/>
      </div>
 
+     <BrandSlider/>
+     <About/>
+     <Services/>
+     <OurServices/>
     </div>
   );
 }
