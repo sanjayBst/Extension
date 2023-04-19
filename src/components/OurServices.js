@@ -73,22 +73,62 @@ function OurServices() {
              </div>
         </div>
         <div className="services">
-          <div className="box-2"></div>
-          <div className="box-3"></div>
-          <div className="box-4"></div>
-          <div className="box-5"></div>
-          <div className="box-6"></div>
-          <div className="box-7"></div>
-          <div className="box-8"></div>
-          <div className="box-9"></div>
-          <div className="box-10"></div>
-          <div className="box-11"></div>
+          <div className="box">
+           <h3>Automobile</h3> 
+            <img src="https://i0.wp.com/extensionerp.com/wp-content/uploads/2020/05/service.png?resize=64%2C64&ssl=1" />
+            </div>
+          <div className="box">
+            <h3>Distribution</h3>
+            <img src='https://i0.wp.com/extensionerp.com/wp-content/uploads/2020/05/management.png?resize=64%2C64&ssl=1' />
+            </div>
+          <div className="box">
+            <h3>Financial</h3>
+            <img src='https://i0.wp.com/extensionerp.com/wp-content/uploads/2020/05/financial.png?resize=64%2C64&ssl=1'/>
+            </div>
+          <div className="box">
+            <h3>Healthcare</h3>
+            <img src='https://i0.wp.com/extensionerp.com/wp-content/uploads/2020/05/people-1.png?resize=64%2C64&ssl=1'/>
+            </div>
+          <div className="box">
+          <h3>Manufacturing</h3>
+          <img src="https://i0.wp.com/extensionerp.com/wp-content/uploads/2020/05/electronics.png?resize=64%2C64&ssl=1" />
+          </div>
+          <div className="box">
+          <h3>Real Estate</h3>
+          <img src="https://i0.wp.com/extensionerp.com/wp-content/uploads/2020/05/technology.png?resize=64%2C64&ssl=1"/>
+          </div>
+          <div className="box">
+          <h3>Sanitaryware</h3>
+          <img src="https://i0.wp.com/extensionerp.com/wp-content/uploads/2020/07/bathroom.png?resize=64%2C64&ssl=1"/>
+          </div>
+          <div className="box">
+          <h3>Co-working</h3>
+          <img src="https://i0.wp.com/extensionerp.com/wp-content/uploads/2020/07/negotiation.png?resize=64%2C64&ssl=1"/>
+          </div>
+          <div className="box">
+          <h3>Education</h3>
+          <img src="https://i0.wp.com/extensionerp.com/wp-content/uploads/2020/07/graduation.png?resize=64%2C64&ssl=1"/>
+          </div>
+          <div className="box">
+          <h3>Pharmaceutical</h3>
+          <img src="https://i0.wp.com/extensionerp.com/wp-content/uploads/2020/07/pharmacist.png?resize=64%2C64&ssl=1"/>
+            </div>
           <div className="box-12">
+            <p>CASE STUDY</p>
             <h1>We work with global brands</h1>
           </div>
-          <div className="box-13"></div>
-          <div className="box-14"></div>
-          <div className="box-15"></div>
+          <div className="box-13">
+          <h3></h3>
+          <img src="https://i0.wp.com/extensionerp.com/wp-content/uploads/2020/08/ufv-1-800x450.jpg" height="200" width="200"/>
+          </div>
+          <div className="box-14">
+          <h3></h3>
+          <img/>
+          </div>
+          <div className="box-15">
+          <h3></h3>
+          <img src="https://i0.wp.com/extensionerp.com/wp-content/uploads/2018/08/k-75-chim-t-091548-800x450.jpg" height="200" width="200"/>
+          </div>
         </div>
       </div>
     </div>

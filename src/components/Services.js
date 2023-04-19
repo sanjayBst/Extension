@@ -10,7 +10,7 @@ function Services() {
             <p>OUR SERVICES</p>
             <h1>Stay Up, Stay Running, Stay Protected</h1>
           </div>
-          <div className="service-1">
+          <div className="service">
             <h3>Analytics & Insights</h3>
             <img src="https://i0.wp.com/extensionerp.com/wp-content/uploads/2020/05/marketing.png?resize=64%2C64&ssl=1" />
             <p>
@@ -19,7 +19,7 @@ function Services() {
               analysis, reporting, dashboards, data warehousing, and many more.
             </p>
           </div>
-          <div className="service-2">
+          <div className="service">
             <h3>Consulting</h3>
             <img src="https://i0.wp.com/extensionerp.com/wp-content/uploads/2020/05/talk.png?resize=64%2C64&ssl=1" />
             <p>
@@ -29,7 +29,7 @@ function Services() {
               solution.
             </p>
           </div>
-          <div className="service-3">
+          <div className="service">
             <h3>Implementation</h3>
             <img src="https://i0.wp.com/extensionerp.com/wp-content/uploads/2020/05/cogwheel.png?resize=64%2C64&ssl=1" />
             <p>
@@ -38,7 +38,7 @@ function Services() {
               through the process shown in the right application.
             </p>
           </div>
-          <div className="service-4">
+          <div className="service">
             <h3>Microservices & API</h3>
             <img src="https://i0.wp.com/extensionerp.com/wp-content/uploads/2020/05/interface.png?resize=64%2C64&ssl=1" />
             <p>
@@ -48,17 +48,17 @@ function Services() {
               microservice design
             </p>
           </div>
-          <div className="service-5">
+          <div className="service">
             <h3>Data Migration</h3>
             <img src="https://i0.wp.com/extensionerp.com/wp-content/uploads/2020/05/link.png?resize=64%2C64&ssl=1" />
             <p>
               Our CRM experts will ensure the data is carefully migrated and
               help businesses reduce much of the manual as imported files are
               automatically mapped to CRM modules that are sent to the CRM
-              field.
+            
             </p>
           </div>
-          <div className="service-6">
+          <div className="service">
             <h3>Training</h3>
             <img src="https://i0.wp.com/extensionerp.com/wp-content/uploads/2020/05/people-2.png?resize=64%2C64&ssl=1" />
             <p>

@@ -5,7 +5,8 @@ function Navbar() {
   return (
     <nav className="navigation">
       <a href="/" className="brand-name">
-        <h3>Extension</h3>
+        <img src='https://i0.wp.com/extensionerp.com/wp-content/uploads/2020/05/Extension-ERP-06-3.png?fit=3312%2C1026&ssl=1' height="auto" width="154" />
+        
       </a>
       <div className="navigation-menu">
         <ul>
